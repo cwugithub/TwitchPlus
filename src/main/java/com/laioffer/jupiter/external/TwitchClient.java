@@ -20,7 +20,7 @@ import com.laioffer.jupiter.entity.Game;
 import java.util.*;
 
 public class TwitchClient {
-    private static final String TOKEN = "Bearer r2megt3ei8uu2aboa3tpgnigohrd51";
+    private static final String TOKEN = "Bearer dnk5ixmvihz7h96k4j3ih0er23y64b";
     private static final String CLIENT_ID = "ecu9bhda6veu723hkhaj0j9qr53zzv";
     private static final String TOP_GAME_URL = "https://api.twitch.tv/helix/games/top?first=%s";
     private static final String GAME_SEARCH_URL_TEMPLATE = "https://api.twitch.tv/helix/games?name=%s";
